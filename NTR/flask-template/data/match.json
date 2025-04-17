@@ -1,0 +1,16 @@
+{
+  "match_id": "987e6543-e21b-12d3-a456-426614174999",
+  "created_at": "2025-04-16T10:00:00",
+  "updated_at": "2025-04-16T10:05:00",
+  "status": "READY",
+  "runner_user_id": "user_runner_1",
+  "runner_username": "RunnerJoe",
+  "runner_deck_id": "deck_runner_1",
+  "runner_ready": true,
+  "corporation_user_id": "user_corp_1",
+  "corporation_username": "CorpJane",
+  "corporation_deck_id": "deck_corp_1",
+  "corporation_ready": true,
+  "game_id": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "Match d'exemple"
+}

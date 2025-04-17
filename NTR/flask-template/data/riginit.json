@@ -1,0 +1,32 @@
+[
+  {
+    "rig_id": "heap",
+    "user_id": "",
+    "cards": ["Red"]
+  },
+  {
+    "rig_id": "stack",
+    "user_id": "",
+    "cards": ["Red"]
+  },
+  {
+    "rig_id": "identity",
+    "user_id": "",
+    "cards": ["Red"]
+  },
+  {
+    "rig_id": "programs",
+    "user_id": "",
+    "cards": []
+  },
+  {
+    "rig_id": "hardware",
+    "user_id": "",
+    "cards": []
+  },
+  {
+    "rig_id": "resources",
+    "user_id": "",
+    "cards": []
+  }
+]

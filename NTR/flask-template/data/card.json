@@ -1,0 +1,21 @@
+{
+    "code": "01001",
+    "title": "Hedge Fund",
+    "type_code": "operation",
+    "faction_code": "neutral_corp",
+    "side_code": "corp",
+    "cost": 5,
+    "deck_limit": 3,
+    "faction_cost": 0,
+    "flavor": "Un petit coup de pouce financier.",
+    "illustrator": "John Doe",
+    "keywords": "transaction",
+    "pack_code": "core",
+    "position": 1,
+    "quantity": 3,
+    "uniqueness": false,
+    "text": "Gagnez 9 [Credits].",
+    "stripped_text": "Gagnez 9 credits.",
+    "stripped_title": "Hedge Fund",
+    "image_url": "https://netrunnerdb.com/card_image/01001.png"
+  }

@@ -1,0 +1,57 @@
+{
+  "syndicate_deck": {
+    "name": "System Gateway Corp Starter SYNDICATE",
+    "cards": [
+      {"card_code": "30067", "title": "Offworld Office", "quantity": 3},
+      {"card_code": "30068", "title": "Orbital Superiority", "quantity": 2},
+      {"card_code": "30069", "title": "Send a Message", "quantity": 2},
+      {"card_code": "30070", "title": "Superconducting Hub", "quantity": 2},
+      {"card_code": "30037", "title": "Nico Campaign", "quantity": 2},
+      {"card_code": "30071", "title": "Regolith Mining License", "quantity": 2},
+      {"card_code": "30045", "title": "Urtica Cipher", "quantity": 2},
+      {"card_code": "30064", "title": "Government Subsidy", "quantity": 2},
+      {"card_code": "30075", "title": "Hedge Fund", "quantity": 3},
+      {"card_code": "30056", "title": "Predictive Planogram", "quantity": 2},
+      {"card_code": "30057", "title": "Public Trail", "quantity": 2},
+      {"card_code": "30065", "title": "Retribution", "quantity": 1},
+      {"card_code": "30040", "title": "Seamless Launch", "quantity": 2},
+      {"card_code": "30058", "title": "AMAZE Amusements", "quantity": 1},
+      {"card_code": "30042", "title": "Manegarm Skunkworks", "quantity": 1},
+      {"card_code": "30039", "title": "Brân 1.0", "quantity": 2},
+      {"card_code": "30072", "title": "Palisade", "quantity": 3},
+      {"card_code": "30046", "title": "Diviner", "quantity": 2},
+      {"card_code": "30054", "title": "Funhouse", "quantity": 2},
+      {"card_code": "30074", "title": "Whitespace", "quantity": 2},
+      {"card_code": "30047", "title": "Karunā", "quantity": 2},
+      {"card_code": "30073", "title": "Tithe", "quantity": 2}
+    ],
+    "decklist_url": "https://netrunnerdb.com/en/decklist/25756508-d79b-410c-97e5-fea626c94e"
+  },
+  "catalyst_deck": {
+    "name": "System Gateway Runner Starter CATALYST",
+    "cards": [
+      {"card_code": "30020", "title": "Creative Commission", "quantity": 2},
+      {"card_code": "30028", "title": "Jailbreak", "quantity": 3},
+      {"card_code": "30011", "title": "Mutual Favor", "quantity": 2},
+      {"card_code": "30029", "title": "Overclock", "quantity": 2},
+      {"card_code": "30030", "title": "Sure Gamble", "quantity": 3},
+      {"card_code": "30012", "title": "Tread Lightly", "quantity": 2},
+      {"card_code": "30021", "title": "VRcation", "quantity": 2},
+      {"card_code": "30002", "title": "Wildcat Strike", "quantity": 2},
+      {"card_code": "30013", "title": "Docklands Pass", "quantity": 1},
+      {"card_code": "30022", "title": "DZMZ Optimizer", "quantity": 2},
+      {"card_code": "30014", "title": "Pennyshaver", "quantity": 1},
+      {"card_code": "30018", "title": "Red Team", "quantity": 1},
+      {"card_code": "30033", "title": "Smartware Distributor", "quantity": 2},
+      {"card_code": "30027", "title": "Telework Contract", "quantity": 2},
+      {"card_code": "30034", "title": "Verbal Plasticity", "quantity": 1},
+      {"card_code": "30015", "title": "Carmen", "quantity": 2},
+      {"card_code": "30006", "title": "Cleaver", "quantity": 2},
+      {"card_code": "30032", "title": "Mayfly", "quantity": 2},
+      {"card_code": "30026", "title": "Unity", "quantity": 2},
+      {"card_code": "30024", "title": "Conduit", "quantity": 2},
+      {"card_code": "30008", "title": "Leech", "quantity": 2}
+    ],
+    "decklist_url": "https://netrunnerdb.com/en/decklist/fb3deaf9-019a-4644-9105-5258709415ad/system-gateway-runner-starter-catalyst"
+  }
+}

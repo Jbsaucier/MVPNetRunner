@@ -1,0 +1,58 @@
+{
+  "card_count": 0,
+  "central_servers": {
+    "Archives": [],
+    "HQ": [],
+    "R&D": []
+  },
+  "corp_state": {
+    "bad_publicity": 0,
+    "clicks": 0,
+    "credits": 5,
+    "deck_id": "System Gateway Corp Starter SYNDICATE",
+    "hand_size_mod": 0,
+    "has_performed_mandatory_draw": false,
+    "memory_units": 4,
+    "role": "CORP",
+    "servers": [
+      "R&D",
+      "HQ",
+      "Archives"
+    ],
+    "successful_runs": {},
+    "tags": 0,
+    "user_id": "bob"
+  },
+  "created_at": "2025-04-16T10:00:00",
+  "current_player_id": null,
+  "current_run": null,
+  "current_view": "runner",
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "log_count": 1,
+  "match_id": null,
+  "remote_servers": {},
+  "runner_state": {
+    "bad_publicity": 0,
+    "clicks": 0,
+    "credits": 32,
+    "deck_id": "System Gateway Runner Starter CATALYST",
+    "hand_size_mod": 0,
+    "has_performed_mandatory_draw": false,
+    "memory_units": 4,
+    "rigs": [
+      "heap",
+      "stack",
+      "identity",
+      "programs",
+      "hardware",
+      "resources"
+    ],
+    "role": "RUNNER",
+    "successful_runs": {},
+    "tags": 0,
+    "user_id": "jerome"
+  },
+  "status": "SETUP",
+  "turn_number": 0,
+  "updated_at": "2025-04-16T10:00:00"
+}

@@ -1,0 +1,120 @@
+{% extends 'base.html' %} {% block content %}
+<div class="login-container">
+  <h1>Bienvenue, {{ username }}</h1>
+  <h2>Choisissez votre rôle</h2>
+
+  {% if error %}
+  <p class="error" style="color: red">{{ error }}</p>
+  {% endif %}
+
+  <form method="post">
+    <div class="role-options">
+      <div class="role-option">
+        <input
+          type="radio"
+          id="corp"
+          name="role"
+          value="corp"
+          {%
+          if
+          roles.corp.taken
+          and
+          roles.corp.user
+          !="username"
+          %}disabled{%
+          endif
+          %}
+        />
+        <label
+          for="corp"
+          {%
+          if
+          roles.corp.taken
+          and
+          roles.corp.user
+          !="username"
+          %}style="color: gray;"
+          {%
+          endif
+          %}
+        >
+          Corporation {% if roles.corp.taken and roles.corp.user != username %}
+          <span style="font-size: 0.8em; font-style: italic"
+            >(Pris par {{ roles.corp.user }})</span
+          >
+          {% endif %}
+        </label>
+      </div>
+
+      <div class="role-option">
+        <input
+          type="radio"
+          id="runner"
+          name="role"
+          value="runner"
+          {%
+          if
+          roles.runner.taken
+          and
+          roles.runner.user
+          !="username"
+          %}disabled{%
+          endif
+          %}
+        />
+        <label
+          for="runner"
+          {%
+          if
+          roles.runner.taken
+          and
+          roles.runner.user
+          !="username"
+          %}style="color: gray;"
+          {%
+          endif
+          %}
+        >
+          Runner {% if roles.runner.taken and roles.runner.user != username %}
+          <span style="font-size: 0.8em; font-style: italic"
+            >(Pris par {{ roles.runner.user }})</span
+          >
+          {% endif %}
+        </label>
+      </div>
+    </div>
+
+    <button type="submit">Commencer à jouer</button>
+  </form>
+
+  <div style="margin-top: 20px; text-align: center">
+    <a
+      href="{{ url_for('reset_roles') }}"
+      style="
+        background-color: #f44336;
+        color: white;
+        padding: 10px 15px;
+        border-radius: 4px;
+        text-decoration: none;
+      "
+      onclick="return confirm('Cela va réinitialiser les rôles, les serveurs et les rigs. Êtes-vous sûr?')"
+    >
+      Réinitialiser les rôles et decks
+    </a>
+  </div>
+
+  <div style="margin-top: 20px; text-align: center">
+    <a
+      href="{{ url_for('logout') }}"
+      style="
+        background-color: #2196f3;
+        color: white;
+        padding: 10px 15px;
+        border-radius: 4px;
+        text-decoration: none;
+      "
+      >Déconnexion</a
+    >
+  </div>
+</div>
+{% endblock %}

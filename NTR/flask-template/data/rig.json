@@ -1,0 +1,353 @@
+[
+  {
+    "rig_id": "heap",
+    "user_id": "",
+    "cards": []
+  },
+  {
+    "rig_id": "stack",
+    "user_id": "",
+    "cards": [
+      {
+        "card_code": "30022-1",
+        "title": "DZMZ Optimizer",
+        "id": "30022-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30022.jpg"
+      },
+      {
+        "card_code": "30008-2",
+        "title": "Leech",
+        "id": "30008-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30008.jpg"
+      },
+      {
+        "card_code": "30008-1",
+        "title": "Leech",
+        "id": "30008-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30008.jpg"
+      },
+      {
+        "card_code": "30028-1",
+        "title": "Jailbreak",
+        "id": "30028-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30028.jpg"
+      },
+      {
+        "card_code": "30011-2",
+        "title": "Mutual Favor",
+        "id": "30011-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30011.jpg"
+      },
+      {
+        "card_code": "30021-1",
+        "title": "VRcation",
+        "id": "30021-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30021.jpg"
+      },
+      {
+        "card_code": "30015-1",
+        "title": "Carmen",
+        "id": "30015-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30015.jpg"
+      },
+      {
+        "card_code": "30034",
+        "title": "Verbal Plasticity",
+        "id": "30034",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30034.jpg"
+      },
+      {
+        "card_code": "30032-1",
+        "title": "Mayfly",
+        "id": "30032-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30032.jpg"
+      },
+      {
+        "card_code": "30002-1",
+        "title": "Wildcat Strike",
+        "id": "30002-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30002.jpg"
+      },
+      {
+        "card_code": "30021-2",
+        "title": "VRcation",
+        "id": "30021-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30021.jpg"
+      },
+      {
+        "card_code": "30028-2",
+        "title": "Jailbreak",
+        "id": "30028-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30028.jpg"
+      },
+      {
+        "card_code": "30027-1",
+        "title": "Telework Contract",
+        "id": "30027-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30027.jpg"
+      },
+      {
+        "card_code": "30020-1",
+        "title": "Creative Commission",
+        "id": "30020-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30020.jpg"
+      },
+      {
+        "card_code": "30006-2",
+        "title": "Cleaver",
+        "id": "30006-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30006.jpg"
+      },
+      {
+        "card_code": "30033-1",
+        "title": "Smartware Distributor",
+        "id": "30033-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30033.jpg"
+      },
+      {
+        "card_code": "30022-2",
+        "title": "DZMZ Optimizer",
+        "id": "30022-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30022.jpg"
+      },
+      {
+        "card_code": "30029-2",
+        "title": "Overclock",
+        "id": "30029-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30029.jpg"
+      },
+      {
+        "card_code": "30024-2",
+        "title": "Conduit",
+        "id": "30024-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30024.jpg"
+      },
+      {
+        "card_code": "30030-1",
+        "title": "Sure Gamble",
+        "id": "30030-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30030.jpg"
+      },
+      {
+        "card_code": "30006-1",
+        "title": "Cleaver",
+        "id": "30006-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30006.jpg"
+      },
+      {
+        "card_code": "30030-2",
+        "title": "Sure Gamble",
+        "id": "30030-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30030.jpg"
+      },
+      {
+        "card_code": "30029-1",
+        "title": "Overclock",
+        "id": "30029-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30029.jpg"
+      },
+      {
+        "card_code": "30027-2",
+        "title": "Telework Contract",
+        "id": "30027-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30027.jpg"
+      },
+      {
+        "card_code": "30018",
+        "title": "Red Team",
+        "id": "30018",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30018.jpg"
+      },
+      {
+        "card_code": "30002-2",
+        "title": "Wildcat Strike",
+        "id": "30002-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30002.jpg"
+      },
+      {
+        "card_code": "30033-2",
+        "title": "Smartware Distributor",
+        "id": "30033-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30033.jpg"
+      },
+      {
+        "card_code": "30020-2",
+        "title": "Creative Commission",
+        "id": "30020-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30020.jpg"
+      },
+      {
+        "card_code": "30028-3",
+        "title": "Jailbreak",
+        "id": "30028-3",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30028.jpg"
+      },
+      {
+        "card_code": "30011-1",
+        "title": "Mutual Favor",
+        "id": "30011-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30011.jpg"
+      },
+      {
+        "card_code": "30030-3",
+        "title": "Sure Gamble",
+        "id": "30030-3",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30030.jpg"
+      },
+      {
+        "card_code": "30013",
+        "title": "Docklands Pass",
+        "id": "30013",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30013.jpg"
+      },
+      {
+        "card_code": "30014",
+        "title": "Pennyshaver",
+        "id": "30014",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30014.jpg"
+      },
+      {
+        "card_code": "30024-1",
+        "title": "Conduit",
+        "id": "30024-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30024.jpg"
+      },
+      {
+        "card_code": "30032-2",
+        "title": "Mayfly",
+        "id": "30032-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30032.jpg"
+      },
+      {
+        "card_code": "30015-2",
+        "title": "Carmen",
+        "id": "30015-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30015.jpg"
+      },
+      {
+        "card_code": "30012-1",
+        "title": "Tread Lightly",
+        "id": "30012-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30012.jpg"
+      },
+      {
+        "card_code": "30012-2",
+        "title": "Tread Lightly",
+        "id": "30012-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30012.jpg"
+      },
+      {
+        "card_code": "30026-2",
+        "title": "Unity",
+        "id": "30026-2",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30026.jpg"
+      },
+      {
+        "card_code": "30026-1",
+        "title": "Unity",
+        "id": "30026-1",
+        "faceup": false,
+        "tokens": 0,
+        "image_url": "/static/img/cards/30026.jpg"
+      }
+    ]
+  },
+  {
+    "rig_id": "identity",
+    "user_id": "",
+    "cards": []
+  },
+  {
+    "rig_id": "programs",
+    "user_id": "",
+    "cards": []
+  },
+  {
+    "rig_id": "hardware",
+    "user_id": "",
+    "cards": []
+  },
+  {
+    "rig_id": "resources",
+    "user_id": "",
+    "cards": []
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "central": [
+    {
+      "id": "rd",
+      "name": "R&D",
+      "ice": [],
+      "cards": [
+        {
+          "card_code": "30071-1",
+          "title": "Regolith Mining License",
+          "id": "30071-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30071.jpg"
+        },
+        {
+          "card_code": "30072-2",
+          "title": "Palisade",
+          "id": "30072-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30072.jpg"
+        },
+        {
+          "card_code": "30057-2",
+          "title": "Public Trail",
+          "id": "30057-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30057.jpg"
+        },
+        {
+          "card_code": "30054-2",
+          "title": "Funhouse",
+          "id": "30054-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30054.jpg"
+        },
+        {
+          "card_code": "30039-2",
+          "title": "Brân 1.0",
+          "id": "30039-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30039.jpg"
+        },
+        {
+          "card_code": "30068-1",
+          "title": "Orbital Superiority",
+          "id": "30068-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30068.jpg"
+        },
+        {
+          "card_code": "30069-1",
+          "title": "Send a Message",
+          "id": "30069-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30069.jpg"
+        },
+        {
+          "card_code": "30071-2",
+          "title": "Regolith Mining License",
+          "id": "30071-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30071.jpg"
+        },
+        {
+          "card_code": "30042",
+          "title": "Manegarm Skunkworks",
+          "id": "30042",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30042.jpg"
+        },
+        {
+          "card_code": "30069-2",
+          "title": "Send a Message",
+          "id": "30069-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30069.jpg"
+        },
+        {
+          "card_code": "30058",
+          "title": "AMAZE Amusements",
+          "id": "30058",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30058.jpg"
+        },
+        {
+          "card_code": "30040-1",
+          "title": "Seamless Launch",
+          "id": "30040-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30040.jpg"
+        },
+        {
+          "card_code": "30056-2",
+          "title": "Predictive Planogram",
+          "id": "30056-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30056.jpg"
+        },
+        {
+          "card_code": "30039-1",
+          "title": "Brân 1.0",
+          "id": "30039-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30039.jpg"
+        },
+        {
+          "card_code": "30057-1",
+          "title": "Public Trail",
+          "id": "30057-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30057.jpg"
+        },
+        {
+          "card_code": "30056-1",
+          "title": "Predictive Planogram",
+          "id": "30056-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30056.jpg"
+        },
+        {
+          "card_code": "30073-1",
+          "title": "Tithe",
+          "id": "30073-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30073.jpg"
+        },
+        {
+          "card_code": "30067-2",
+          "title": "Offworld Office",
+          "id": "30067-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30067.jpg"
+        },
+        {
+          "card_code": "30047-1",
+          "title": "Karunā",
+          "id": "30047-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30047.jpg"
+        },
+        {
+          "card_code": "30072-3",
+          "title": "Palisade",
+          "id": "30072-3",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30072.jpg"
+        },
+        {
+          "card_code": "30074-1",
+          "title": "Whitespace",
+          "id": "30074-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30074.jpg"
+        },
+        {
+          "card_code": "30075-3",
+          "title": "Hedge Fund",
+          "id": "30075-3",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30075.jpg"
+        },
+        {
+          "card_code": "30040-2",
+          "title": "Seamless Launch",
+          "id": "30040-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30040.jpg"
+        },
+        {
+          "card_code": "30064-2",
+          "title": "Government Subsidy",
+          "id": "30064-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30064.jpg"
+        },
+        {
+          "card_code": "30074-2",
+          "title": "Whitespace",
+          "id": "30074-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30074.jpg"
+        },
+        {
+          "card_code": "30054-1",
+          "title": "Funhouse",
+          "id": "30054-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30054.jpg"
+        },
+        {
+          "card_code": "30045-2",
+          "title": "Urtica Cipher",
+          "id": "30045-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30045.jpg"
+        },
+        {
+          "card_code": "30037-1",
+          "title": "Nico Campaign",
+          "id": "30037-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30037.jpg"
+        },
+        {
+          "card_code": "30037-2",
+          "title": "Nico Campaign",
+          "id": "30037-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30037.jpg"
+        },
+        {
+          "card_code": "30047-2",
+          "title": "Karunā",
+          "id": "30047-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30047.jpg"
+        },
+        {
+          "card_code": "30075-1",
+          "title": "Hedge Fund",
+          "id": "30075-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30075.jpg"
+        },
+        {
+          "card_code": "30045-1",
+          "title": "Urtica Cipher",
+          "id": "30045-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30045.jpg"
+        },
+        {
+          "card_code": "30067-1",
+          "title": "Offworld Office",
+          "id": "30067-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30067.jpg"
+        },
+        {
+          "card_code": "30068-2",
+          "title": "Orbital Superiority",
+          "id": "30068-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30068.jpg"
+        },
+        {
+          "card_code": "30046-2",
+          "title": "Diviner",
+          "id": "30046-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30046.jpg"
+        },
+        {
+          "card_code": "30070-2",
+          "title": "Superconducting Hub",
+          "id": "30070-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30070.jpg"
+        },
+        {
+          "card_code": "30046-1",
+          "title": "Diviner",
+          "id": "30046-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30046.jpg"
+        },
+        {
+          "card_code": "30067-3",
+          "title": "Offworld Office",
+          "id": "30067-3",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30067.jpg"
+        },
+        {
+          "card_code": "30075-2",
+          "title": "Hedge Fund",
+          "id": "30075-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30075.jpg"
+        },
+        {
+          "card_code": "30073-2",
+          "title": "Tithe",
+          "id": "30073-2",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30073.jpg"
+        },
+        {
+          "card_code": "30070-1",
+          "title": "Superconducting Hub",
+          "id": "30070-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30070.jpg"
+        },
+        {
+          "card_code": "30065",
+          "title": "Retribution",
+          "id": "30065",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30065.jpg"
+        },
+        {
+          "card_code": "30072-1",
+          "title": "Palisade",
+          "id": "30072-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30072.jpg"
+        },
+        {
+          "card_code": "30064-1",
+          "title": "Government Subsidy",
+          "id": "30064-1",
+          "faceup": false,
+          "tokens": 0,
+          "image_url": "/static/img/cards/30064.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hq",
+      "name": "HQ",
+      "ice": [],
+      "cards": []
+    },
+    {
+      "id": "archives",
+      "name": "Archives",
+      "ice": [],
+      "cards": []
+    }
+  ],
+  "remote": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R&D",
+    "ice": [],
+    "root": ["Blue"],
+    "destroyable": false
+  },
+  {
+    "id": "HQ",
+    "ice": [],
+    "root": ["Blue"],
+    "destroyable": false
+  },
+  {
+    "id": "Archives",
+    "ice": [],
+    "root": ["Blue"],
+    "destroyable": false
+  }
+]

@@ -1,0 +1,96 @@
+{% extends 'base.html' %} {% block content %}
+<h1>NetRunner Web</h1>
+<button id="toggleViewBtn" onclick="toggleView()" class="btn btn-primary">
+  Voir côté Runner
+</button>
+<button
+  class="btn btn-secondary menu-btn"
+  id="imgSizeBtn"
+  onclick="toggleImgSize()"
+  style="margin-top: 50px"
+>
+  Taille images
+</button>
+
+<!-- Runner Action Buttons -->
+<div
+  id="runnerActionButtons"
+  style="
+    position: fixed;
+    right: 20px;
+    top: 130px;
+    width: 260px;
+    z-index: 100;
+    display: none;
+  "
+>
+  <div class="card">
+    <div class="card-header bg-dark text-white">
+      <strong>Actions Runner</strong>
+    </div>
+    <div class="card-body d-flex flex-column gap-2">
+      <button class="btn btn-success" onclick="gainCredit()">
+        Gain 1 Credit
+      </button>
+      <button class="btn btn-primary" onclick="drawCard()">Draw 1 Card</button>
+      <button class="btn btn-warning text-white" onclick="playEvent()">
+        Play 1 Event Card
+      </button>
+      <button class="btn btn-info text-white" onclick="installCard()">
+        Install Program/Resource/Hardware
+      </button>
+      <button class="btn btn-danger" onclick="runServer()">
+        Run Any Server
+      </button>
+      <button class="btn btn-secondary" onclick="removeTag()">
+        Pay 2₵ to Remove a Tag
+      </button>
+    </div>
+  </div>
+</div>
+
+<div id="corpView" style="display: none">
+  <h2>Vue Corporation</h2>
+  <ul id="corpInfo"></ul>
+  <h3>Serveurs centraux</h3>
+  <div id="corpServers"></div>
+</div>
+
+<div id="runnerView" style="display: none">
+  <h2>Vue Runner</h2>
+  <ul id="runnerInfo"></ul>
+  <h3>Rigs du Runner</h3>
+  <div id="runnerRigs"></div>
+</div>
+
+<div
+  style="
+    position: fixed;
+    left: 50%;
+    bottom: 32px;
+    transform: translateX(-50%);
+    z-index: 20;
+    display: flex;
+    gap: 24px;
+  "
+>
+  <button id="handBtn" class="btn btn-primary">Hand</button>
+  <button id="addServerBtn" class="btn btn-secondary">
+    Ajouter un serveur
+  </button>
+</div>
+
+<script>
+  window.initialGame = {{ game|tojson }};
+  window.initialServers = {{ servers|tojson }};
+  window.userRole = "{{ role }}";
+  window.userId = "{{ user_id }}";
+  window.userUUID = "{{ user_uuid }}";
+</script>
+
+<script src="{{ url_for('static', filename='home.js') }}"></script>
+<script src="{{ url_for('static', filename='toggleView.js') }}"></script>
+<script src="{{ url_for('static', filename='initView.js') }}"></script>
+<script src="{{ url_for('static', filename='renderServers.js') }}"></script>
+<script src="{{ url_for('static', filename='deck.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,20 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "user_id": "user_corp_1",
+  "game_id": "123e4567-e89b-12d3-a456-426614174000",
+  "deck_id": "deck_corp_1",
+  "role": "CORP",
+  "credits": 5,
+  "clicks": 0,
+  "tags": 0,
+  "bad_publicity": 0,
+  "memory_units": 4,
+  "hand_size_mod": 0,
+  "has_performed_mandatory_draw": false,
+  "successful_runs": {},
+  "cards_drawn": 0,
+  "credits_gained": 0,
+  "credits_spent": 0,
+  "socket_id": null,
+  "last_activity_timestamp": null
+}
